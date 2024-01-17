@@ -1,4 +1,4 @@
-# Hi, I'm c0mrade12211! 👋
+# Hi, I'm Stepanov Daniil (a.k.a c0mrade :rage2:) ! 👋
 
 I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I love exploring the world of hacking and penetration testing, and I'm always eager to learn and grow in the field of cybersecurity.
 
