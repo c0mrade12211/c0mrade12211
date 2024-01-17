@@ -14,7 +14,7 @@ I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I lov
 
 - Cybersecurity: Penetration Testing, Vulnerability Assessment, Network Security
 - Programming Languages: Golang, Python, Bash
-- Tools: Burp Suite, Wireshark, Metasploit, Nmap, Docker
+- Tools: Burp Suite, Wireshark, Metasploit, Nmap, Docker, etc............................ 
 
 
 Feel free to explore my repositories to learn more about my projects and contributions. Don't hesitate to reach out if you have any questions or if you're interested in collaborating!
