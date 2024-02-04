@@ -13,8 +13,8 @@ I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I lov
 ## Skills
 
 - Cybersecurity: Penetration Testing, Vulnerability Assessment, Network Security  
-- Programming Languages: <img src="https://www.svgrepo.com/show/353795/go.svg" width="36" height="36" alt="hacker" />  <img src="https://www.svgrepo.com/show/331553/python-package-index.svg" width="36" height="36" alt="hacker" /> <img src="https://www.svgrepo.com/show/373992/powershell.svg" width="36" height="36" alt="hacker" />
-- Tools: Burp Suite, Wireshark, Metasploit, Nmap, Docker, <img src="https://i.ibb.co/r0W7x4N/Type-Script.png" width="36" height="36" alt="typescript" />
+- Programming Languages: <img src="https://www.svgrepo.com/show/353795/go.svg" width="36" height="36" alt="hacker" />  <img src="https://www.svgrepo.com/show/331553/python-package-index.svg" width="36" height="36" alt="hacker" /> <img src="https://www.svgrepo.com/show/373992/powershell.svg" width="50" height="50" alt="hacker" />
+- Tools: Burp Suite, Wireshark, Metasploit, Nmap, Docker, 
 
 
 Feel free to explore my repositories to learn more about my projects and contributions. Don't hesitate to reach out if you have any questions or if you're interested in collaborating!
