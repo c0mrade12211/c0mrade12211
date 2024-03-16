@@ -13,7 +13,7 @@ I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I lov
 ## Skills
 
 - Cybersecurity: Penetration Testing, Vulnerability Assessment, Network Security  
-- [![Programming languages](https://skillicons.dev/icons?i=golang,postgresql,python,c,powershell)](https://skillicons.dev)
+- [![Programming languages](https://skillicons.dev/icons?i=golang,postgresql,python,cpp,powershell)](https://skillicons.dev)
 - Tools: Burp Suite, Wireshark, Metasploit, Nmap, Docker, 
 
 
