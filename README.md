@@ -1,16 +1,18 @@
-<h1 align="center">Hi there, I'm <a href="https://tryhackme.com/p/Reesecomrade" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href="https://tryhackme.com/p/Reesecomrade" target="_blank">Daniil</a></h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Penetration+Tester" /> <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=CyberSecurity+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Penetration+Tester" /> <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=CyberSecurity+Researcher" style="margin-left: -222220px;">
 </p>
 
+<table align="center">
+  <tr>
+    <td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
+  </tr>
+</table>
 
-
-
-
-
-<td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
-
-I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I love exploring the world of hacking and penetration testing, and I'm always eager to learn and grow in the field of cybersecurity.
+<p align="center">
+  I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I love exploring the world of hacking and penetration testing, and I'm always eager to learn and grow in the field of cybersecurity.
+</p>
 
 ## About Me
 
