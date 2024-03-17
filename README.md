@@ -1,15 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="https://tryhackme.com/p/Reesecomrade" target="_blank">Daniil</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-	<div>
-			<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Penetration+Tester" />
-	</div>
-	<div style="margin-top: 20px;">
-			<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=CyberSecurity+Researcher" />
-	</div>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Penetration+Tester" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=CyberSecurity+Researcher" />
+</p>
 
 
 
