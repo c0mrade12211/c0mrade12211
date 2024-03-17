@@ -26,12 +26,12 @@ Feel free to explore my repositories to learn more about my projects and contrib
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark" width="200"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0mrade12211&theme=solarized_dark" width="200"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0mrade12211&theme=solarized_dark" width="200"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark" width="500"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0mrade12211&theme=solarized_dark" width="500"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0mrade12211&theme=solarized_dark" width="500"></td>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0mrade12211&theme=solarized_dark" width="200"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0mrade12211&theme=solarized_dark" width="200"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0mrade12211&theme=solarized_dark" width="500"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0mrade12211&theme=solarized_dark" width="500"></td>
   </tr>
 </table>
