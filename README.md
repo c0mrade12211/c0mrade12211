@@ -1,14 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://tryhackme.com/p/Reesecomrade" target="_blank">Daniil</a>
+<img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Penetration+Tester" /> <h1 align="center">Hi there, I'm <a href="https://tryhackme.com/p/Reesecomrade" target="_blank">Daniil</a><img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=CyberSecurity+Researcher" />
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Penetration+Tester" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=CyberSecurity+Researcher" />
-</p>
-
 
 
 
