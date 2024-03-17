@@ -15,10 +15,6 @@ I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I lov
 
 ## Skills
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0mrade12211&theme=solarized_dark)
-
-
-
 - Cybersecurity: Penetration Testing, Vulnerability Assessment, Network Security  
 - [![Programming languages](https://skillicons.dev/icons?i=golang,cpp,python,powershell,postgresql)](https://skillicons.dev)
 - Tools: Burp Suite, Wireshark, Metasploit, Nmap, Docker, 
@@ -30,6 +26,9 @@ Feel free to explore my repositories to learn more about my projects and contrib
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=c0mrade12211&count_private=true&show_icons=true&include_all_commits=true)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0mrade12211&theme=solarized_dark)
 
 
 
