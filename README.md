@@ -1,6 +1,5 @@
 # Hi, I'm Stepanov Daniil (a.k.a c0mrade <img src="https://www.svgrepo.com/show/493162/hacker.svg" width="36" height="36" alt="hacker" />) ! 👋
-# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 🇷🇺
+
 I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I love exploring the world of hacking and penetration testing, and I'm always eager to learn and grow in the field of cybersecurity.
 
 ## About Me
