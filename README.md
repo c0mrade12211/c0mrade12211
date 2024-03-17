@@ -25,17 +25,9 @@ Feel free to explore my repositories to learn more about my projects and contrib
 
 
 
-
 <table style="border-collapse: collapse;">
   <tr>
-    <td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
-    <td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
-  </tr>
-  <tr>
-    <td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
-    <td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
+    <td style="padding: 0; display: inline-block;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
+    <td style="padding: 0; display: inline-block;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
   </tr>
 </table>
