@@ -3,6 +3,9 @@
 
 ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 
+
+<td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
+
 I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I love exploring the world of hacking and penetration testing, and I'm always eager to learn and grow in the field of cybersecurity.
 
 ## About Me
@@ -27,7 +30,6 @@ Feel free to explore my repositories to learn more about my projects and contrib
 
 <table style="border-collapse: collapse;">
   <tr>
-    <td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
     <td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
   </tr>
   <tr>
