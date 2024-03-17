@@ -1,5 +1,5 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/Reesecomrade.png" alt="TryHackMe">
-# Hi there, I'm Stepanov Daniil  (a.k.a c0mrade <img src="https://www.svgrepo.com/show/493162/hacker.svg" width="36" height="36" alt="hacker" />) ! 
+
+# Hi there, I'm Stepanov Daniil  (a.k.a c0mrade <img src="https://tryhackme-badges.s3.amazonaws.com/Reesecomrade.png" alt="TryHackMe">  width="36" height="36" alt="hacker" />) ! 
 
 ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 
