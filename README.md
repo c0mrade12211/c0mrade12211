@@ -12,7 +12,7 @@ I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I lov
 - 🌱 I’m currently learning Golang to enhance my skills as a developer.
 - 👯 I’m looking to collaborate on open-source projects related to cybersecurity or Golang development.
 - 📫 You can reach me via email at [best.sell@internet.ru](mailto:best.sell@internet.ru).
-- ⚡ Fun fact: I enjoy solving CTF challenges in my free time!
+- ⚡ Fun fact: I'm have a Team(ByteBusters) for solving CTF challenges in my free time!
 
 ## Skills
 
