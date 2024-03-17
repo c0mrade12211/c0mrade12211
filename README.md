@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://tryhackme.com/p/Reesecomrade" target="_blank">Daniil</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Penetration+Tester" /> <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=CyberSecurity+Researcher" style="margin-left: -222220px;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Penetration+Tester" /> <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=CyberSecurity+Researcher" style="margin-left: 2550px;">
 </p>
 
 <table align="center">
