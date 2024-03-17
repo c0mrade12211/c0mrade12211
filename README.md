@@ -1,6 +1,3 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/Reesecomrade.png" alt="TryHackMe">
-
-
 
 # Hi there, I'm Stepanov Daniil  
 
@@ -24,6 +21,7 @@ I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I lov
 
 
 Feel free to explore my repositories to learn more about my projects and contributions. Don't hesitate to reach out if you have any questions or if you're interested in collaborating!
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0mrade12211&theme=solarized_dark)
 
 
 
