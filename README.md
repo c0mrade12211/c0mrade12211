@@ -24,17 +24,7 @@ Feel free to explore my repositories to learn more about my projects and contrib
 
 
 
-<style>
-  table {
-    width: 100%;
-    table-layout: fixed;
-  }
-  img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-</style>
+
 
 <table>
   <tr>
