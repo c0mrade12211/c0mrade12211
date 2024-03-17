@@ -26,7 +26,7 @@ Feel free to explore my repositories to learn more about my projects and contrib
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark" width="1000"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark" width="5000"></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0mrade12211&theme=solarized_dark" width="700"></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0mrade12211&theme=solarized_dark" width="700"></td>
   </tr>
