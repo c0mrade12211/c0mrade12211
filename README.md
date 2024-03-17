@@ -18,3 +18,4 @@ I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I lov
 
 
 Feel free to explore my repositories to learn more about my projects and contributions. Don't hesitate to reach out if you have any questions or if you're interested in collaborating!
+![Github Stats](https://github-readme-stats.vercel.app/api?username=c0mrade12211&count_private=true&show_icons=true&include_all_commits=true)
