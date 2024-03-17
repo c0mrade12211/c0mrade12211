@@ -1,14 +1,25 @@
-<h1 align="center">Hi there, I'm <a href="https://tryhackme.com/p/Reesecomrade" target="_blank">Daniil</a> 
-
-
-
-
-
-
-
-  
+<h1 align="center">Hi there, I'm <a href="https://tryhackme.com/p/Reesecomrade" target="_blank">Daniil</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Penetration Tester, CyberSecurity Researcher 🇷🇺</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
 
