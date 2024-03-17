@@ -1,11 +1,14 @@
 <h1 align="center">Hi there, I'm <a href="https://tryhackme.com/p/Reesecomrade" target="_blank">Daniil</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-
-
-
-
+<div style="display: flex; flex-direction: column; align-items: center;">
+	<div>
+			<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Penetration+Tester" />
+	</div>
+	<div style="margin-top: 20px;">
+			<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=CyberSecurity+Researcher" />
+	</div>
+</div>
 
 
 
