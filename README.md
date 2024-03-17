@@ -26,3 +26,4 @@ Feel free to explore my repositories to learn more about my projects and contrib
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=c0mrade12211&count_private=true&show_icons=true&include_all_commits=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=c0mrade12211)](https://github-profile-trophy.vercel.app/?username=c0mrade12211)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Reesecomrade.png" alt="TryHackMe">
