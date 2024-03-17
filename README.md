@@ -25,11 +25,12 @@ Feel free to explore my repositories to learn more about my projects and contrib
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=c0mrade12211&count_private=true&show_icons=true&include_all_commits=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0mrade12211&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0mrade12211&theme=white)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0mrade12211&theme=solarized_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0mrade12211&theme=solarized_dark)
 
-
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0mrade12211&theme=solarized_dark)
