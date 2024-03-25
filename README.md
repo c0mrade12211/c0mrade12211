@@ -4,11 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Penetration+Tester" /> <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=CyberSecurity+Researcher" style="margin-left: 2550px;">
 </p>
 
-<table align="center">
-  <tr>
-    <td style="padding: 0;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
-  </tr>
-</table>
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=c0mrade12211&show_icons=true&theme=chartreuse-dark" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=c0mrade12211&theme=chartreuse-dark" />
+</p> 
+
 
 <p align="center">
   I'm a passionate cybersecurity enthusiast and a beginner Golang developer. I love exploring the world of hacking and penetration testing, and I'm always eager to learn and grow in the field of cybersecurity.
@@ -63,13 +65,7 @@ Different methodologies are commonly used during penetration testing, such as:
 </p>
 
 
-Feel free to explore my repositories to learn more about my projects and contributions. Don't hesitate to reach out if you have any questions or if you're interested in collaborating!
 
 
 
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="padding: 0; display: inline-block;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
-    <td style="padding: 0; display: inline-block;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0mrade12211&theme=solarized_dark" style="display: block;"></td>
-  </tr>
-</table>
+
